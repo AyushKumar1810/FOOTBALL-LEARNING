@@ -9,7 +9,7 @@ This project employs YOLO (You Only Look Once) object detection to conduct compr
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/ayushsri1810/football-analysis-using-yolo.git
+   git clone https://github.com/AyushKumar1810/FOOTBALL-LEARNING
    cd football-analysis-using-yolo
    ```
 
